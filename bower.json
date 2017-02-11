@@ -1,0 +1,15 @@
+{
+  "name": "angularTemplate",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular-route": "~1.5.3",
+    "angular-toastr": "~1.5.0",
+    "angular": "~1.5.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.5.3"
+  },
+  "resolutions": {
+    "angular": "~1.5.3"
+  }
+}
