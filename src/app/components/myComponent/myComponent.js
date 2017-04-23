@@ -5,6 +5,7 @@
     .module('myComponent', [])
     .directive('myComponent', function () {
       return {
+        'controller': 'myComponentController',
         'templateUrl': 'app/components/myComponent/myComponent.html'
       }
     })
